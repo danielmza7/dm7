@@ -134,3 +134,18 @@ header {
     color: #fff;
     font-size: 18px;
   }
+  .about {
+ 
+    display: flex;
+flex-direction: column;
+color: rgb(120, 78, 22);
+height: 250px;
+margin-top: 15vh;
+margin-left: 50vh;
+margin-bottom: 10vh;
+font-size: 4vh;
+height: 250px;
+width: 50%;
+height: 40%;
+  
+  }
